@@ -1,4 +1,4 @@
-saatchi_downloader_ios is a tool to enable downloading from saatchi.com on your
+saatchi_downloader_ios is a tool to enable downloading from saatchiart.com on your
 iOS device using the (paid) [Pythonista app][1].
 
 &nbsp;
@@ -25,11 +25,11 @@ downloading it onto your device from there.
 
 # Using
 saatchi_downloader can be used in four ways:
-1. Sharing the url of a saatchi artwork page from the share button (select 'Run
+1. Sharing the url of a saatchiart artwork page from the share button (select 'Run
 Pythonista Script', then select the script).
 2. Passing the artwork page url as the first system argument to the script.
 3. From the chipboard, if it contains an eligible url (valid url formatting and
-points to a saatchi.com artwork page).
+points to a saatchiart.com artwork page).
 4. Asking the user to type it via the console.
 
 [1]: https://apps.apple.com/ca/app/pythonista-3/id1085978097

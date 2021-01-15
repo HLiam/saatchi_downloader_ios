@@ -13,7 +13,7 @@ from requests import Session
 
 
 class Page:
-    """An image-containing page of saatchi.com.
+    """An image-containing page of saatchiart.com.
 
     Raises:
         ValueError: If the url is invalid (invalid url format or doesn't point
